@@ -114,6 +114,7 @@
 #     end
 #
 require "hello"
+require "spec_helper"
 
 describe "the hello function" do
   it "says hello" do
